@@ -60,12 +60,6 @@ Not recommended for long videos (over 1 minute) unless using GPU acceleration.
 
 ---
 
-## 📸 App Interface Preview
-
-![GUI Preview](<img width="689" height="671" alt="image" src="https://github.com/user-attachments/assets/662ae553-2560-4094-85ae-922f8eb874aa" />)
-
----
-
 ## 📋 Development Roadmap (TODO)
 
 - [x] Dark mode GUI
