@@ -96,5 +96,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 **URCXPatch Team**  
-📧 Email: urcxservice@example.com  
-📱 TikTok: [@urcxpatch](https://tiktok.com/@urcxpatch)
+📧 Email: -  
+📱 TikTok: -
