@@ -42,7 +42,7 @@ pip install customtkinter requests
 ### 3. Run the application
 
 ```bash
-python urcxpatch.py
+python project.py
 ```
 
 > If `ffmpeg` is not found, the app will automatically download the latest version from GitHub.
