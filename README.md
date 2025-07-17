@@ -62,7 +62,7 @@ Not recommended for long videos (over 1 minute) unless using GPU acceleration.
 
 ## 📸 App Interface Preview
 
-![GUI Preview](<img width="689" height="671" alt="image" src="https://github.com/user-attachments/assets/1dc4cbcf-8a9c-4b9f-a962-01bed2b1e4fc" />)
+![GUI Preview](<img width="689" height="671" alt="image" src="https://github.com/user-attachments/assets/662ae553-2560-4094-85ae-922f8eb874aa" />)
 
 ---
 
